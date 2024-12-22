@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Animals</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+    <string name="animal_species">Species: %s</string>
+    <string name="animal_family">Family: %s</string>
+    <string name="animal_habitat">Habitat: %s</string>
+    <string name="animal_found">Found in: %s</string>
+    <string name="animal_diet">Family: %s</string>
+    <string name="animal_weight">Weight: %s (kg)</string>
+    <string name="animal_height">Height: %s (cm)</string>
+</resources>
